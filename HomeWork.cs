@@ -8,9 +8,16 @@ namespace test_git
 {
     internal class HomeWork
     {
-        for (int i = 1; i <= 10; i++) 
-            { 
-                cout << "MUNG NGAY CHUA SINH RA DOI";
-            }
+        //Lưu Vĩnh Tường code cái này
+        //Nguyễn Nam Hy code cái này luôn
+        for(int i =0;i< 2024;i++)
+        {
+            cout<<"MUNG NGAY CHUA SINH RA DOI"; 
+            cout<<"Happy lunar new year";
+        }
+        for(int i =0;i< 2024;i++) //Tuong Luu code cái này
+        {
+            cout<<"Chuc mung nam Giap Thin 2024";
+        }
     }
 }
