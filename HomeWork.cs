@@ -16,7 +16,7 @@ namespace test_git
         }
         for(int i =0;i< 2024;i++)
         {
-            cout<<"Chuc Mung Nam Moi";
+            cout<<"Chuc mung nam Giap Thin 2024";
         }
     }
 }
