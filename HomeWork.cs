@@ -14,5 +14,9 @@ namespace test_git
         {
             cout<<"Happy lunar new year";
         }
+        for(int i =0;i< 2024;i++)
+        {
+            cout<<"Chuc mung nam Giap Thin 2024";
+        }
     }
 }
