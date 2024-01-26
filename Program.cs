@@ -18,5 +18,6 @@ namespace test_git
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
         }
+        //Lưu Vĩnh Tường code cái này
     }
 }
