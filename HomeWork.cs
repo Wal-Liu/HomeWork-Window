@@ -10,5 +10,9 @@ namespace test_git
     {
         //Lưu Vĩnh Tường code cái này
         //Nguyễn Nam Hy code cái này luôn
+        for(int i =0;i< 2024;i++)
+        {
+            cout<<"Happy lunar new year";
+        }
     }
 }
